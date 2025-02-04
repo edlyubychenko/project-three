@@ -1,4 +1,5 @@
 
+import BodyImage from './BodyImg'
 import Card from './Card'
 import data from './data.json'
 const CardsContainer = () => {

@@ -1,7 +1,26 @@
 body {
   margin: 0;
   box-sizing: border-box;
-  background-color: green;
+  background-color: yellow;
   color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+#navbar {
+  background-color: teal;
+  height: 50px;
+
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
 }

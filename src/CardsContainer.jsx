@@ -7,7 +7,7 @@ console.log(data)
     <div className='cards-container'>
         <div className='cards'>
             {data.states.map((state) => {
-                return <Card key={state.name} state={state.name}  stateFlower={state.stateFlower} > </Card>   
+                return <Card key={state.nickName} state={state.name}     population={state.population} stateFlower={state.stateFlower} > </Card>   
                 })} 
 
         </div>  

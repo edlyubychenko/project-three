@@ -6,7 +6,7 @@ const Header = (props) => {
         <ul class="links-container">
             <li class="link-item"><a href="#travel">Travel</a></li>
             <li class="link-item"><a href="#explore-section">Explore</a></li>
-            <li class="link-item"><a href="#hero-section"> <image src="img/logo.png" class="logo" alt=""></image></a></li>
+            <li class="link-item"><a href="#hero-section"> <img src="img/logo.png" class="logo" alt=""/></a></li>
             <li class="link-item"><a href="#services">Services</a></li>
             <li class="link-item"><a href="#booknow">Book Now</a></li>
         </ul>

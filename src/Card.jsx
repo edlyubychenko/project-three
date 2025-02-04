@@ -6,7 +6,6 @@ const Card = (props) => {
     Some States I have data on {props.state}
     {props.stateFlower.name}
     {props.population}
-    {props.capitalCity}
 
 
         </div>

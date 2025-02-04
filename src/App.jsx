@@ -1,7 +1,7 @@
 import './App.css'
-import BodyImage from './BodyImg'
 import CardsContainer from './CardsContainer'
 import Header from './Header'
+import Blog from './blog'
  
 
 const App = () => {
@@ -9,8 +9,10 @@ const App = () => {
   return   (
     <div>
       <Header></Header>
+      <Blog></Blog>
       <CardsContainer></CardsContainer>
-      <BodyImage></BodyImage>
+
+
       
     </div>
   )

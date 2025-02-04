@@ -2,16 +2,16 @@ const Header = (props) => {
 
     return   (
       <div>
-      <section id="navbar">
+    <nav class="navbar">
+        <ul class="links-container">
+            <li class="link-item"><a href="#travel">Travel</a></li>
+            <li class="link-item"><a href="#explore-section">Explore</a></li>
+            <li class="link-item"><a href="#hero-section"> <image src="img/logo.png" class="logo" alt=""></image></a></li>
+            <li class="link-item"><a href="#services">Services</a></li>
+            <li class="link-item"><a href="#booknow">Book Now</a></li>
+        </ul>
+    </nav>
 
-      <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#news">News</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li><a href="#about">About</a></li>
-    </ul>
-
-      </section>     
 
        </div>
     )

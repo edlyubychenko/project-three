@@ -11,7 +11,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -33,16 +32,15 @@
 
     {
       "name": "California",
-      "shortName": "AZ",
+      "shortName": "CA",
       "nickName": "Grand Canyon State",
       "statePopulation": null , 
       "capitalCity": {
-        "name": "Phoenix",
+        "name": "Sacramento",
         "population": 1513367
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -72,7 +70,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -103,7 +100,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -132,7 +128,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -162,7 +157,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -191,7 +185,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -221,7 +214,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -251,7 +243,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -280,7 +271,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -309,7 +299,6 @@
         },  
       "secretaryOfState": "Michele Reagan",
       "population": 6828065,
-      "largestCity": null,
       "stateBird": {
         "name": "Sourdough Sam",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
@@ -326,9 +315,1591 @@
         "baseball": null
             },
       "funFact": "blahhhhhhhhhh"
-        }
-
-
+        },
+        {
+          "name": "Alaska",
+          "shortName": "AZ",
+          "nickName": "Grand Canyon State",
+          "statePopulation": null , 
+          "capitalCity": {
+            "name": "Phoenix",
+            "population": 1513367
+            },  
+          "secretaryOfState": "Michele Reagan",
+          "population": 6828065,
+          "stateBird": {
+            "name": "Sourdough Sam",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+            },
+          "stateFlower": {
+          "name": "saguaro cactus",
+          "image": null      
+              },
+          "sportsTeams": {
+            "basketball": "Scarlet",
+            "football": "Gold",
+            "soccer": null,
+            "hockey": null,
+            "baseball": null
+                },
+          "funFact": "blahhhhhhhhhh"
+              },
+    
+              {
+                "name": "Georgia",
+          "shortName": "AZ",
+          "nickName": "Grand Canyon State",
+          "statePopulation": null , 
+          "capitalCity": {
+            "name": "Phoenix",
+            "population": 1513367
+            },  
+          "secretaryOfState": "Michele Reagan",
+          "population": 6828065,
+          "stateBird": {
+            "name": "Sourdough Sam",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+            },
+          "stateFlower": {
+          "name": "saguaro cactus",
+          "image": null      
+              },
+          "sportsTeams": {
+            "basketball": "Scarlet",
+            "football": "Gold",
+            "soccer": null,
+            "hockey": null,
+            "baseball": null
+                },
+          "funFact": "blahhhhhhhhhh"
+            },
+            {
+              "name": "Hawaii",
+          "shortName": "AZ",
+          "nickName": "Grand Canyon State",
+          "statePopulation": null , 
+          "capitalCity": {
+            "name": "Phoenix",
+            "population": 1513367
+            },  
+          "secretaryOfState": "Michele Reagan",
+          "population": 6828065,
+          "stateBird": {
+            "name": "Sourdough Sam",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+            },
+          "stateFlower": {
+          "name": "saguaro cactus",
+          "image": null      
+              },
+          "sportsTeams": {
+            "basketball": "Scarlet",
+            "football": "Gold",
+            "soccer": null,
+            "hockey": null,
+            "baseball": null
+                },
+          "funFact": "blahhhhhhhhhh"
+            },
+            {
+              "name": "Mississippi",
+          "shortName": "AZ",
+          "nickName": "Grand Canyon State",
+          "statePopulation": null , 
+          "capitalCity": {
+            "name": "Phoenix",
+            "population": 1513367
+            },  
+          "secretaryOfState": "Michele Reagan",
+          "population": 6828065,
+          "stateBird": {
+            "name": "Sourdough Sam",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+            },
+          "stateFlower": {
+          "name": "saguaro cactus",
+          "image": null      
+              },
+          "sportsTeams": {
+            "basketball": "Scarlet",
+            "football": "Gold",
+            "soccer": null,
+            "hockey": null,
+            "baseball": null
+                },
+          "funFact": "blahhhhhhhhhh"
+            },
+            {
+              "name": "Alaska",
+              "shortName": "AZ",
+              "nickName": "Grand Canyon State",
+              "statePopulation": null , 
+              "capitalCity": {
+                "name": "Phoenix",
+                "population": 1513367
+                },  
+              "secretaryOfState": "Michele Reagan",
+              "population": 6828065,
+              "stateBird": {
+                "name": "Sourdough Sam",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                },
+              "stateFlower": {
+              "name": "saguaro cactus",
+              "image": null      
+                  },
+              "sportsTeams": {
+                "basketball": "Scarlet",
+                "football": "Gold",
+                "soccer": null,
+                "hockey": null,
+                "baseball": null
+                    },
+              "funFact": "blahhhhhhhhhh"
+                  },
+        
+                  {
+                    "name": "Georgia",
+              "shortName": "AZ",
+              "nickName": "Grand Canyon State",
+              "statePopulation": null , 
+              "capitalCity": {
+                "name": "Phoenix",
+                "population": 1513367
+                },  
+              "secretaryOfState": "Michele Reagan",
+              "population": 6828065,
+              "stateBird": {
+                "name": "Sourdough Sam",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                },
+              "stateFlower": {
+              "name": "saguaro cactus",
+              "image": null      
+                  },
+              "sportsTeams": {
+                "basketball": "Scarlet",
+                "football": "Gold",
+                "soccer": null,
+                "hockey": null,
+                "baseball": null
+                    },
+              "funFact": "blahhhhhhhhhh"
+                },
+                {
+                  "name": "Hawaii",
+              "shortName": "AZ",
+              "nickName": "Grand Canyon State",
+              "statePopulation": null , 
+              "capitalCity": {
+                "name": "Phoenix",
+                "population": 1513367
+                },  
+              "secretaryOfState": "Michele Reagan",
+              "population": 6828065,
+              "stateBird": {
+                "name": "Sourdough Sam",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                },
+              "stateFlower": {
+              "name": "saguaro cactus",
+              "image": null      
+                  },
+              "sportsTeams": {
+                "basketball": "Scarlet",
+                "football": "Gold",
+                "soccer": null,
+                "hockey": null,
+                "baseball": null
+                    },
+              "funFact": "blahhhhhhhhhh"
+                },
+                {
+                  "name": "Mississippi",
+              "shortName": "AZ",
+              "nickName": "Grand Canyon State",
+              "statePopulation": null , 
+              "capitalCity": {
+                "name": "Phoenix",
+                "population": 1513367
+                },  
+              "secretaryOfState": "Michele Reagan",
+              "population": 6828065,
+              "stateBird": {
+                "name": "Sourdough Sam",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                },
+              "stateFlower": {
+              "name": "saguaro cactus",
+              "image": null      
+                  },
+              "sportsTeams": {
+                "basketball": "Scarlet",
+                "football": "Gold",
+                "soccer": null,
+                "hockey": null,
+                "baseball": null
+                    },
+              "funFact": "blahhhhhhhhhh"
+                },
+                {
+                  "name": "Alaska",
+                  "shortName": "AZ",
+                  "nickName": "Grand Canyon State",
+                  "statePopulation": null , 
+                  "capitalCity": {
+                    "name": "Phoenix",
+                    "population": 1513367
+                    },  
+                  "secretaryOfState": "Michele Reagan",
+                  "population": 6828065,
+                  "stateBird": {
+                    "name": "Sourdough Sam",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                    },
+                  "stateFlower": {
+                  "name": "saguaro cactus",
+                  "image": null      
+                      },
+                  "sportsTeams": {
+                    "basketball": "Scarlet",
+                    "football": "Gold",
+                    "soccer": null,
+                    "hockey": null,
+                    "baseball": null
+                        },
+                  "funFact": "blahhhhhhhhhh"
+                      },
+            
+                      {
+                        "name": "Georgia",
+                  "shortName": "AZ",
+                  "nickName": "Grand Canyon State",
+                  "statePopulation": null , 
+                  "capitalCity": {
+                    "name": "Phoenix",
+                    "population": 1513367
+                    },  
+                  "secretaryOfState": "Michele Reagan",
+                  "population": 6828065,
+                  "stateBird": {
+                    "name": "Sourdough Sam",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                    },
+                  "stateFlower": {
+                  "name": "saguaro cactus",
+                  "image": null      
+                      },
+                  "sportsTeams": {
+                    "basketball": "Scarlet",
+                    "football": "Gold",
+                    "soccer": null,
+                    "hockey": null,
+                    "baseball": null
+                        },
+                  "funFact": "blahhhhhhhhhh"
+                    },
+                    {
+                      "name": "Hawaii",
+                  "shortName": "AZ",
+                  "nickName": "Grand Canyon State",
+                  "statePopulation": null , 
+                  "capitalCity": {
+                    "name": "Phoenix",
+                    "population": 1513367
+                    },  
+                  "secretaryOfState": "Michele Reagan",
+                  "population": 6828065,
+                  "stateBird": {
+                    "name": "Sourdough Sam",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                    },
+                  "stateFlower": {
+                  "name": "saguaro cactus",
+                  "image": null      
+                      },
+                  "sportsTeams": {
+                    "basketball": "Scarlet",
+                    "football": "Gold",
+                    "soccer": null,
+                    "hockey": null,
+                    "baseball": null
+                        },
+                  "funFact": "blahhhhhhhhhh"
+                    },
+                    {
+                      "name": "Mississippi",
+                  "shortName": "AZ",
+                  "nickName": "Grand Canyon State",
+                  "statePopulation": null , 
+                  "capitalCity": {
+                    "name": "Phoenix",
+                    "population": 1513367
+                    },  
+                  "secretaryOfState": "Michele Reagan",
+                  "population": 6828065,
+                  "stateBird": {
+                    "name": "Sourdough Sam",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                    },
+                  "stateFlower": {
+                  "name": "saguaro cactus",
+                  "image": null      
+                      },
+                  "sportsTeams": {
+                    "basketball": "Scarlet",
+                    "football": "Gold",
+                    "soccer": null,
+                    "hockey": null,
+                    "baseball": null
+                        },
+                  "funFact": "blahhhhhhhhhh"
+                    },
+                    {
+                      "name": "Alaska",
+                      "shortName": "AZ",
+                      "nickName": "Grand Canyon State",
+                      "statePopulation": null , 
+                      "capitalCity": {
+                        "name": "Phoenix",
+                        "population": 1513367
+                        },  
+                      "secretaryOfState": "Michele Reagan",
+                      "population": 6828065,
+                      "stateBird": {
+                        "name": "Sourdough Sam",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                        },
+                      "stateFlower": {
+                      "name": "saguaro cactus",
+                      "image": null      
+                          },
+                      "sportsTeams": {
+                        "basketball": "Scarlet",
+                        "football": "Gold",
+                        "soccer": null,
+                        "hockey": null,
+                        "baseball": null
+                            },
+                      "funFact": "blahhhhhhhhhh"
+                          },
+                
+                          {
+                            "name": "Georgia",
+                      "shortName": "AZ",
+                      "nickName": "Grand Canyon State",
+                      "statePopulation": null , 
+                      "capitalCity": {
+                        "name": "Phoenix",
+                        "population": 1513367
+                        },  
+                      "secretaryOfState": "Michele Reagan",
+                      "population": 6828065,
+                      "stateBird": {
+                        "name": "Sourdough Sam",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                        },
+                      "stateFlower": {
+                      "name": "saguaro cactus",
+                      "image": null      
+                          },
+                      "sportsTeams": {
+                        "basketball": "Scarlet",
+                        "football": "Gold",
+                        "soccer": null,
+                        "hockey": null,
+                        "baseball": null
+                            },
+                      "funFact": "blahhhhhhhhhh"
+                        },
+                        {
+                          "name": "Hawaii",
+                      "shortName": "AZ",
+                      "nickName": "Grand Canyon State",
+                      "statePopulation": null , 
+                      "capitalCity": {
+                        "name": "Phoenix",
+                        "population": 1513367
+                        },  
+                      "secretaryOfState": "Michele Reagan",
+                      "population": 6828065,
+                      "stateBird": {
+                        "name": "Sourdough Sam",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                        },
+                      "stateFlower": {
+                      "name": "saguaro cactus",
+                      "image": null      
+                          },
+                      "sportsTeams": {
+                        "basketball": "Scarlet",
+                        "football": "Gold",
+                        "soccer": null,
+                        "hockey": null,
+                        "baseball": null
+                            },
+                      "funFact": "blahhhhhhhhhh"
+                        },
+                        {
+                          "name": "Mississippi",
+                      "shortName": "AZ",
+                      "nickName": "Grand Canyon State",
+                      "statePopulation": null , 
+                      "capitalCity": {
+                        "name": "Phoenix",
+                        "population": 1513367
+                        },  
+                      "secretaryOfState": "Michele Reagan",
+                      "population": 6828065,
+                      "stateBird": {
+                        "name": "Sourdough Sam",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                        },
+                      "stateFlower": {
+                      "name": "saguaro cactus",
+                      "image": null      
+                          },
+                      "sportsTeams": {
+                        "basketball": "Scarlet",
+                        "football": "Gold",
+                        "soccer": null,
+                        "hockey": null,
+                        "baseball": null
+                            },
+                      "funFact": "blahhhhhhhhhh"
+                        },
+                        {
+                          "name": "Alaska",
+                          "shortName": "AZ",
+                          "nickName": "Grand Canyon State",
+                          "statePopulation": null , 
+                          "capitalCity": {
+                            "name": "Phoenix",
+                            "population": 1513367
+                            },  
+                          "secretaryOfState": "Michele Reagan",
+                          "population": 6828065,
+                          "stateBird": {
+                            "name": "Sourdough Sam",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                            },
+                          "stateFlower": {
+                          "name": "saguaro cactus",
+                          "image": null      
+                              },
+                          "sportsTeams": {
+                            "basketball": "Scarlet",
+                            "football": "Gold",
+                            "soccer": null,
+                            "hockey": null,
+                            "baseball": null
+                                },
+                          "funFact": "blahhhhhhhhhh"
+                              },
+                    
+                              {
+                                "name": "Georgia",
+                          "shortName": "AZ",
+                          "nickName": "Grand Canyon State",
+                          "statePopulation": null , 
+                          "capitalCity": {
+                            "name": "Phoenix",
+                            "population": 1513367
+                            },  
+                          "secretaryOfState": "Michele Reagan",
+                          "population": 6828065,
+                          "stateBird": {
+                            "name": "Sourdough Sam",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                            },
+                          "stateFlower": {
+                          "name": "saguaro cactus",
+                          "image": null      
+                              },
+                          "sportsTeams": {
+                            "basketball": "Scarlet",
+                            "football": "Gold",
+                            "soccer": null,
+                            "hockey": null,
+                            "baseball": null
+                                },
+                          "funFact": "blahhhhhhhhhh"
+                            },
+                            {
+                              "name": "Hawaii",
+                          "shortName": "AZ",
+                          "nickName": "Grand Canyon State",
+                          "statePopulation": null , 
+                          "capitalCity": {
+                            "name": "Phoenix",
+                            "population": 1513367
+                            },  
+                          "secretaryOfState": "Michele Reagan",
+                          "population": 6828065,
+                          "stateBird": {
+                            "name": "Sourdough Sam",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                            },
+                          "stateFlower": {
+                          "name": "saguaro cactus",
+                          "image": null      
+                              },
+                          "sportsTeams": {
+                            "basketball": "Scarlet",
+                            "football": "Gold",
+                            "soccer": null,
+                            "hockey": null,
+                            "baseball": null
+                                },
+                          "funFact": "blahhhhhhhhhh"
+                            },
+                            {
+                              "name": "Mississippi",
+                          "shortName": "AZ",
+                          "nickName": "Grand Canyon State",
+                          "statePopulation": null , 
+                          "capitalCity": {
+                            "name": "Phoenix",
+                            "population": 1513367
+                            },  
+                          "secretaryOfState": "Michele Reagan",
+                          "population": 6828065,
+                          "stateBird": {
+                            "name": "Sourdough Sam",
+                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                            },
+                          "stateFlower": {
+                          "name": "saguaro cactus",
+                          "image": null      
+                              },
+                          "sportsTeams": {
+                            "basketball": "Scarlet",
+                            "football": "Gold",
+                            "soccer": null,
+                            "hockey": null,
+                            "baseball": null
+                                },
+                          "funFact": "blahhhhhhhhhh"
+                            },
+                            {
+                              "name": "Alaska",
+                              "shortName": "AZ",
+                              "nickName": "Grand Canyon State",
+                              "statePopulation": null , 
+                              "capitalCity": {
+                                "name": "Phoenix",
+                                "population": 1513367
+                                },  
+                              "secretaryOfState": "Michele Reagan",
+                              "population": 6828065,
+                              "stateBird": {
+                                "name": "Sourdough Sam",
+                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                },
+                              "stateFlower": {
+                              "name": "saguaro cactus",
+                              "image": null      
+                                  },
+                              "sportsTeams": {
+                                "basketball": "Scarlet",
+                                "football": "Gold",
+                                "soccer": null,
+                                "hockey": null,
+                                "baseball": null
+                                    },
+                              "funFact": "blahhhhhhhhhh"
+                                  },
+                        
+                                  {
+                                    "name": "Georgia",
+                              "shortName": "AZ",
+                              "nickName": "Grand Canyon State",
+                              "statePopulation": null , 
+                              "capitalCity": {
+                                "name": "Phoenix",
+                                "population": 1513367
+                                },  
+                              "secretaryOfState": "Michele Reagan",
+                              "population": 6828065,
+                              "stateBird": {
+                                "name": "Sourdough Sam",
+                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                },
+                              "stateFlower": {
+                              "name": "saguaro cactus",
+                              "image": null      
+                                  },
+                              "sportsTeams": {
+                                "basketball": "Scarlet",
+                                "football": "Gold",
+                                "soccer": null,
+                                "hockey": null,
+                                "baseball": null
+                                    },
+                              "funFact": "blahhhhhhhhhh"
+                                },
+                                {
+                                  "name": "Hawaii",
+                              "shortName": "AZ",
+                              "nickName": "Grand Canyon State",
+                              "statePopulation": null , 
+                              "capitalCity": {
+                                "name": "Phoenix",
+                                "population": 1513367
+                                },  
+                              "secretaryOfState": "Michele Reagan",
+                              "population": 6828065,
+                              "stateBird": {
+                                "name": "Sourdough Sam",
+                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                },
+                              "stateFlower": {
+                              "name": "saguaro cactus",
+                              "image": null      
+                                  },
+                              "sportsTeams": {
+                                "basketball": "Scarlet",
+                                "football": "Gold",
+                                "soccer": null,
+                                "hockey": null,
+                                "baseball": null
+                                    },
+                              "funFact": "blahhhhhhhhhh"
+                                },
+                                {
+                                  "name": "Mississippi",
+                              "shortName": "AZ",
+                              "nickName": "Grand Canyon State",
+                              "statePopulation": null , 
+                              "capitalCity": {
+                                "name": "Phoenix",
+                                "population": 1513367
+                                },  
+                              "secretaryOfState": "Michele Reagan",
+                              "population": 6828065,
+                              "stateBird": {
+                                "name": "Sourdough Sam",
+                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                },
+                              "stateFlower": {
+                              "name": "saguaro cactus",
+                              "image": null      
+                                  },
+                              "sportsTeams": {
+                                "basketball": "Scarlet",
+                                "football": "Gold",
+                                "soccer": null,
+                                "hockey": null,
+                                "baseball": null
+                                    },
+                              "funFact": "blahhhhhhhhhh"
+                                },
+                                {
+                                  "name": "Alaska",
+                                  "shortName": "AZ",
+                                  "nickName": "Grand Canyon State",
+                                  "statePopulation": null , 
+                                  "capitalCity": {
+                                    "name": "Phoenix",
+                                    "population": 1513367
+                                    },  
+                                  "secretaryOfState": "Michele Reagan",
+                                  "population": 6828065,
+                                  "stateBird": {
+                                    "name": "Sourdough Sam",
+                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                    },
+                                  "stateFlower": {
+                                  "name": "saguaro cactus",
+                                  "image": null      
+                                      },
+                                  "sportsTeams": {
+                                    "basketball": "Scarlet",
+                                    "football": "Gold",
+                                    "soccer": null,
+                                    "hockey": null,
+                                    "baseball": null
+                                        },
+                                  "funFact": "blahhhhhhhhhh"
+                                      },
+                            
+                                      {
+                                        "name": "Georgia",
+                                  "shortName": "AZ",
+                                  "nickName": "Grand Canyon State",
+                                  "statePopulation": null , 
+                                  "capitalCity": {
+                                    "name": "Phoenix",
+                                    "population": 1513367
+                                    },  
+                                  "secretaryOfState": "Michele Reagan",
+                                  "population": 6828065,
+                                  "stateBird": {
+                                    "name": "Sourdough Sam",
+                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                    },
+                                  "stateFlower": {
+                                  "name": "saguaro cactus",
+                                  "image": null      
+                                      },
+                                  "sportsTeams": {
+                                    "basketball": "Scarlet",
+                                    "football": "Gold",
+                                    "soccer": null,
+                                    "hockey": null,
+                                    "baseball": null
+                                        },
+                                  "funFact": "blahhhhhhhhhh"
+                                    },
+                                    {
+                                      "name": "Hawaii",
+                                  "shortName": "AZ",
+                                  "nickName": "Grand Canyon State",
+                                  "statePopulation": null , 
+                                  "capitalCity": {
+                                    "name": "Phoenix",
+                                    "population": 1513367
+                                    },  
+                                  "secretaryOfState": "Michele Reagan",
+                                  "population": 6828065,
+                                  "stateBird": {
+                                    "name": "Sourdough Sam",
+                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                    },
+                                  "stateFlower": {
+                                  "name": "saguaro cactus",
+                                  "image": null      
+                                      },
+                                  "sportsTeams": {
+                                    "basketball": "Scarlet",
+                                    "football": "Gold",
+                                    "soccer": null,
+                                    "hockey": null,
+                                    "baseball": null
+                                        },
+                                  "funFact": "blahhhhhhhhhh"
+                                    },
+                                    {
+                                      "name": "Mississippi",
+                                  "shortName": "AZ",
+                                  "nickName": "Grand Canyon State",
+                                  "statePopulation": null , 
+                                  "capitalCity": {
+                                    "name": "Phoenix",
+                                    "population": 1513367
+                                    },  
+                                  "secretaryOfState": "Michele Reagan",
+                                  "population": 6828065,
+                                  "stateBird": {
+                                    "name": "Sourdough Sam",
+                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                    },
+                                  "stateFlower": {
+                                  "name": "saguaro cactus",
+                                  "image": null      
+                                      },
+                                  "sportsTeams": {
+                                    "basketball": "Scarlet",
+                                    "football": "Gold",
+                                    "soccer": null,
+                                    "hockey": null,
+                                    "baseball": null
+                                        },
+                                  "funFact": "blahhhhhhhhhh"
+                                    },
+                                    {
+                                      "name": "Alaska",
+                                      "shortName": "AZ",
+                                      "nickName": "Grand Canyon State",
+                                      "statePopulation": null , 
+                                      "capitalCity": {
+                                        "name": "Phoenix",
+                                        "population": 1513367
+                                        },  
+                                      "secretaryOfState": "Michele Reagan",
+                                      "population": 6828065,
+                                      "stateBird": {
+                                        "name": "Sourdough Sam",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                        },
+                                      "stateFlower": {
+                                      "name": "saguaro cactus",
+                                      "image": null      
+                                          },
+                                      "sportsTeams": {
+                                        "basketball": "Scarlet",
+                                        "football": "Gold",
+                                        "soccer": null,
+                                        "hockey": null,
+                                        "baseball": null
+                                            },
+                                      "funFact": "blahhhhhhhhhh"
+                                          },
+                                
+                                          {
+                                            "name": "Georgia",
+                                      "shortName": "AZ",
+                                      "nickName": "Grand Canyon State",
+                                      "statePopulation": null , 
+                                      "capitalCity": {
+                                        "name": "Phoenix",
+                                        "population": 1513367
+                                        },  
+                                      "secretaryOfState": "Michele Reagan",
+                                      "population": 6828065,
+                                      "stateBird": {
+                                        "name": "Sourdough Sam",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                        },
+                                      "stateFlower": {
+                                      "name": "saguaro cactus",
+                                      "image": null      
+                                          },
+                                      "sportsTeams": {
+                                        "basketball": "Scarlet",
+                                        "football": "Gold",
+                                        "soccer": null,
+                                        "hockey": null,
+                                        "baseball": null
+                                            },
+                                      "funFact": "blahhhhhhhhhh"
+                                        },
+                                        {
+                                          "name": "Hawaii",
+                                      "shortName": "AZ",
+                                      "nickName": "Grand Canyon State",
+                                      "statePopulation": null , 
+                                      "capitalCity": {
+                                        "name": "Phoenix",
+                                        "population": 1513367
+                                        },  
+                                      "secretaryOfState": "Michele Reagan",
+                                      "population": 6828065,
+                                      "stateBird": {
+                                        "name": "Sourdough Sam",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                        },
+                                      "stateFlower": {
+                                      "name": "saguaro cactus",
+                                      "image": null      
+                                          },
+                                      "sportsTeams": {
+                                        "basketball": "Scarlet",
+                                        "football": "Gold",
+                                        "soccer": null,
+                                        "hockey": null,
+                                        "baseball": null
+                                            },
+                                      "funFact": "blahhhhhhhhhh"
+                                        },
+                                        {
+                                          "name": "Mississippi",
+                                      "shortName": "AZ",
+                                      "nickName": "Grand Canyon State",
+                                      "statePopulation": null , 
+                                      "capitalCity": {
+                                        "name": "Phoenix",
+                                        "population": 1513367
+                                        },  
+                                      "secretaryOfState": "Michele Reagan",
+                                      "population": 6828065,
+                                      "stateBird": {
+                                        "name": "Sourdough Sam",
+                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                        },
+                                      "stateFlower": {
+                                      "name": "saguaro cactus",
+                                      "image": null      
+                                          },
+                                      "sportsTeams": {
+                                        "basketball": "Scarlet",
+                                        "football": "Gold",
+                                        "soccer": null,
+                                        "hockey": null,
+                                        "baseball": null
+                                            },
+                                      "funFact": "blahhhhhhhhhh"
+                                        },
+                                        {
+                                          "name": "Alaska",
+                                          "shortName": "AZ",
+                                          "nickName": "Grand Canyon State",
+                                          "statePopulation": null , 
+                                          "capitalCity": {
+                                            "name": "Phoenix",
+                                            "population": 1513367
+                                            },  
+                                          "secretaryOfState": "Michele Reagan",
+                                          "population": 6828065,
+                                          "stateBird": {
+                                            "name": "Sourdough Sam",
+                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                            },
+                                          "stateFlower": {
+                                          "name": "saguaro cactus",
+                                          "image": null      
+                                              },
+                                          "sportsTeams": {
+                                            "basketball": "Scarlet",
+                                            "football": "Gold",
+                                            "soccer": null,
+                                            "hockey": null,
+                                            "baseball": null
+                                                },
+                                          "funFact": "blahhhhhhhhhh"
+                                              },
+                                    
+                                              {
+                                                "name": "Georgia",
+                                          "shortName": "AZ",
+                                          "nickName": "Grand Canyon State",
+                                          "statePopulation": null , 
+                                          "capitalCity": {
+                                            "name": "Phoenix",
+                                            "population": 1513367
+                                            },  
+                                          "secretaryOfState": "Michele Reagan",
+                                          "population": 6828065,
+                                          "stateBird": {
+                                            "name": "Sourdough Sam",
+                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                            },
+                                          "stateFlower": {
+                                          "name": "saguaro cactus",
+                                          "image": null      
+                                              },
+                                          "sportsTeams": {
+                                            "basketball": "Scarlet",
+                                            "football": "Gold",
+                                            "soccer": null,
+                                            "hockey": null,
+                                            "baseball": null
+                                                },
+                                          "funFact": "blahhhhhhhhhh"
+                                            },
+                                            {
+                                              "name": "Hawaii",
+                                          "shortName": "AZ",
+                                          "nickName": "Grand Canyon State",
+                                          "statePopulation": null , 
+                                          "capitalCity": {
+                                            "name": "Phoenix",
+                                            "population": 1513367
+                                            },  
+                                          "secretaryOfState": "Michele Reagan",
+                                          "population": 6828065,
+                                          "stateBird": {
+                                            "name": "Sourdough Sam",
+                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                            },
+                                          "stateFlower": {
+                                          "name": "saguaro cactus",
+                                          "image": null      
+                                              },
+                                          "sportsTeams": {
+                                            "basketball": "Scarlet",
+                                            "football": "Gold",
+                                            "soccer": null,
+                                            "hockey": null,
+                                            "baseball": null
+                                                },
+                                          "funFact": "blahhhhhhhhhh"
+                                            },
+                                            {
+                                              "name": "Mississippi",
+                                          "shortName": "AZ",
+                                          "nickName": "Grand Canyon State",
+                                          "statePopulation": null , 
+                                          "capitalCity": {
+                                            "name": "Phoenix",
+                                            "population": 1513367
+                                            },  
+                                          "secretaryOfState": "Michele Reagan",
+                                          "population": 6828065,
+                                          "stateBird": {
+                                            "name": "Sourdough Sam",
+                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                            },
+                                          "stateFlower": {
+                                          "name": "saguaro cactus",
+                                          "image": null      
+                                              },
+                                          "sportsTeams": {
+                                            "basketball": "Scarlet",
+                                            "football": "Gold",
+                                            "soccer": null,
+                                            "hockey": null,
+                                            "baseball": null
+                                                },
+                                          "funFact": "blahhhhhhhhhh"
+                                            },
+                                            {
+                                              "name": "Alaska",
+                                              "shortName": "AZ",
+                                              "nickName": "Grand Canyon State",
+                                              "statePopulation": null , 
+                                              "capitalCity": {
+                                                "name": "Phoenix",
+                                                "population": 1513367
+                                                },  
+                                              "secretaryOfState": "Michele Reagan",
+                                              "population": 6828065,
+                                              "stateBird": {
+                                                "name": "Sourdough Sam",
+                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                },
+                                              "stateFlower": {
+                                              "name": "saguaro cactus",
+                                              "image": null      
+                                                  },
+                                              "sportsTeams": {
+                                                "basketball": "Scarlet",
+                                                "football": "Gold",
+                                                "soccer": null,
+                                                "hockey": null,
+                                                "baseball": null
+                                                    },
+                                              "funFact": "blahhhhhhhhhh"
+                                                  },
+                                        
+                                                  {
+                                                    "name": "Georgia",
+                                              "shortName": "AZ",
+                                              "nickName": "Grand Canyon State",
+                                              "statePopulation": null , 
+                                              "capitalCity": {
+                                                "name": "Phoenix",
+                                                "population": 1513367
+                                                },  
+                                              "secretaryOfState": "Michele Reagan",
+                                              "population": 6828065,
+                                              "stateBird": {
+                                                "name": "Sourdough Sam",
+                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                },
+                                              "stateFlower": {
+                                              "name": "saguaro cactus",
+                                              "image": null      
+                                                  },
+                                              "sportsTeams": {
+                                                "basketball": "Scarlet",
+                                                "football": "Gold",
+                                                "soccer": null,
+                                                "hockey": null,
+                                                "baseball": null
+                                                    },
+                                              "funFact": "blahhhhhhhhhh"
+                                                },
+                                                {
+                                                  "name": "Hawaii",
+                                              "shortName": "AZ",
+                                              "nickName": "Grand Canyon State",
+                                              "statePopulation": null , 
+                                              "capitalCity": {
+                                                "name": "Phoenix",
+                                                "population": 1513367
+                                                },  
+                                              "secretaryOfState": "Michele Reagan",
+                                              "population": 6828065,
+                                              "stateBird": {
+                                                "name": "Sourdough Sam",
+                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                },
+                                              "stateFlower": {
+                                              "name": "saguaro cactus",
+                                              "image": null      
+                                                  },
+                                              "sportsTeams": {
+                                                "basketball": "Scarlet",
+                                                "football": "Gold",
+                                                "soccer": null,
+                                                "hockey": null,
+                                                "baseball": null
+                                                    },
+                                              "funFact": "blahhhhhhhhhh"
+                                                },
+                                                {
+                                                  "name": "Mississippi",
+                                              "shortName": "AZ",
+                                              "nickName": "Grand Canyon State",
+                                              "statePopulation": null , 
+                                              "capitalCity": {
+                                                "name": "Phoenix",
+                                                "population": 1513367
+                                                },  
+                                              "secretaryOfState": "Michele Reagan",
+                                              "population": 6828065,
+                                              "stateBird": {
+                                                "name": "Sourdough Sam",
+                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                },
+                                              "stateFlower": {
+                                              "name": "saguaro cactus",
+                                              "image": null      
+                                                  },
+                                              "sportsTeams": {
+                                                "basketball": "Scarlet",
+                                                "football": "Gold",
+                                                "soccer": null,
+                                                "hockey": null,
+                                                "baseball": null
+                                                    },
+                                              "funFact": "blahhhhhhhhhh"
+                                                },
+                                                {
+                                                  "name": "Alaska",
+                                                  "shortName": "AZ",
+                                                  "nickName": "Grand Canyon State",
+                                                  "statePopulation": null , 
+                                                  "capitalCity": {
+                                                    "name": "Phoenix",
+                                                    "population": 1513367
+                                                    },  
+                                                  "secretaryOfState": "Michele Reagan",
+                                                  "population": 6828065,
+                                                  "stateBird": {
+                                                    "name": "Sourdough Sam",
+                                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                    },
+                                                  "stateFlower": {
+                                                  "name": "saguaro cactus",
+                                                  "image": null      
+                                                      },
+                                                  "sportsTeams": {
+                                                    "basketball": "Scarlet",
+                                                    "football": "Gold",
+                                                    "soccer": null,
+                                                    "hockey": null,
+                                                    "baseball": null
+                                                        },
+                                                  "funFact": "blahhhhhhhhhh"
+                                                      },
+                                            
+                                                      {
+                                                        "name": "Georgia",
+                                                  "shortName": "AZ",
+                                                  "nickName": "Grand Canyon State",
+                                                  "statePopulation": null , 
+                                                  "capitalCity": {
+                                                    "name": "Phoenix",
+                                                    "population": 1513367
+                                                    },  
+                                                  "secretaryOfState": "Michele Reagan",
+                                                  "population": 6828065,
+                                                  "stateBird": {
+                                                    "name": "Sourdough Sam",
+                                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                    },
+                                                  "stateFlower": {
+                                                  "name": "saguaro cactus",
+                                                  "image": null      
+                                                      },
+                                                  "sportsTeams": {
+                                                    "basketball": "Scarlet",
+                                                    "football": "Gold",
+                                                    "soccer": null,
+                                                    "hockey": null,
+                                                    "baseball": null
+                                                        },
+                                                  "funFact": "blahhhhhhhhhh"
+                                                    },
+                                                    {
+                                                      "name": "Hawaii",
+                                                  "shortName": "AZ",
+                                                  "nickName": "Grand Canyon State",
+                                                  "statePopulation": null , 
+                                                  "capitalCity": {
+                                                    "name": "Phoenix",
+                                                    "population": 1513367
+                                                    },  
+                                                  "secretaryOfState": "Michele Reagan",
+                                                  "population": 6828065,
+                                                  "stateBird": {
+                                                    "name": "Sourdough Sam",
+                                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                    },
+                                                  "stateFlower": {
+                                                  "name": "saguaro cactus",
+                                                  "image": null      
+                                                      },
+                                                  "sportsTeams": {
+                                                    "basketball": "Scarlet",
+                                                    "football": "Gold",
+                                                    "soccer": null,
+                                                    "hockey": null,
+                                                    "baseball": null
+                                                        },
+                                                  "funFact": "blahhhhhhhhhh"
+                                                    },
+                                                    {
+                                                      "name": "Mississippi",
+                                                  "shortName": "AZ",
+                                                  "nickName": "Grand Canyon State",
+                                                  "statePopulation": null , 
+                                                  "capitalCity": {
+                                                    "name": "Phoenix",
+                                                    "population": 1513367
+                                                    },  
+                                                  "secretaryOfState": "Michele Reagan",
+                                                  "population": 6828065,
+                                                  "stateBird": {
+                                                    "name": "Sourdough Sam",
+                                                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                    },
+                                                  "stateFlower": {
+                                                  "name": "saguaro cactus",
+                                                  "image": null      
+                                                      },
+                                                  "sportsTeams": {
+                                                    "basketball": "Scarlet",
+                                                    "football": "Gold",
+                                                    "soccer": null,
+                                                    "hockey": null,
+                                                    "baseball": null
+                                                        },
+                                                  "funFact": "blahhhhhhhhhh"
+                                                    },
+                                                    {
+                                                      "name": "Alaska",
+                                                      "shortName": "AZ",
+                                                      "nickName": "Grand Canyon State",
+                                                      "statePopulation": null , 
+                                                      "capitalCity": {
+                                                        "name": "Phoenix",
+                                                        "population": 1513367
+                                                        },  
+                                                      "secretaryOfState": "Michele Reagan",
+                                                      "population": 6828065,
+                                                      "stateBird": {
+                                                        "name": "Sourdough Sam",
+                                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                        },
+                                                      "stateFlower": {
+                                                      "name": "saguaro cactus",
+                                                      "image": null      
+                                                          },
+                                                      "sportsTeams": {
+                                                        "basketball": "Scarlet",
+                                                        "football": "Gold",
+                                                        "soccer": null,
+                                                        "hockey": null,
+                                                        "baseball": null
+                                                            },
+                                                      "funFact": "blahhhhhhhhhh"
+                                                          },
+                                                
+                                                          {
+                                                            "name": "Georgia",
+                                                      "shortName": "AZ",
+                                                      "nickName": "Grand Canyon State",
+                                                      "statePopulation": null , 
+                                                      "capitalCity": {
+                                                        "name": "Phoenix",
+                                                        "population": 1513367
+                                                        },  
+                                                      "secretaryOfState": "Michele Reagan",
+                                                      "population": 6828065,
+                                                      "stateBird": {
+                                                        "name": "Sourdough Sam",
+                                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                        },
+                                                      "stateFlower": {
+                                                      "name": "saguaro cactus",
+                                                      "image": null      
+                                                          },
+                                                      "sportsTeams": {
+                                                        "basketball": "Scarlet",
+                                                        "football": "Gold",
+                                                        "soccer": null,
+                                                        "hockey": null,
+                                                        "baseball": null
+                                                            },
+                                                      "funFact": "blahhhhhhhhhh"
+                                                        },
+                                                        {
+                                                          "name": "Hawaii",
+                                                      "shortName": "AZ",
+                                                      "nickName": "Grand Canyon State",
+                                                      "statePopulation": null , 
+                                                      "capitalCity": {
+                                                        "name": "Phoenix",
+                                                        "population": 1513367
+                                                        },  
+                                                      "secretaryOfState": "Michele Reagan",
+                                                      "population": 6828065,
+                                                      "stateBird": {
+                                                        "name": "Sourdough Sam",
+                                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                        },
+                                                      "stateFlower": {
+                                                      "name": "saguaro cactus",
+                                                      "image": null      
+                                                          },
+                                                      "sportsTeams": {
+                                                        "basketball": "Scarlet",
+                                                        "football": "Gold",
+                                                        "soccer": null,
+                                                        "hockey": null,
+                                                        "baseball": null
+                                                            },
+                                                      "funFact": "blahhhhhhhhhh"
+                                                        },
+                                                        {
+                                                          "name": "Mississippi",
+                                                      "shortName": "AZ",
+                                                      "nickName": "Grand Canyon State",
+                                                      "statePopulation": null , 
+                                                      "capitalCity": {
+                                                        "name": "Phoenix",
+                                                        "population": 1513367
+                                                        },  
+                                                      "secretaryOfState": "Michele Reagan",
+                                                      "population": 6828065,
+                                                      "stateBird": {
+                                                        "name": "Sourdough Sam",
+                                                        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                        },
+                                                      "stateFlower": {
+                                                      "name": "saguaro cactus",
+                                                      "image": null      
+                                                          },
+                                                      "sportsTeams": {
+                                                        "basketball": "Scarlet",
+                                                        "football": "Gold",
+                                                        "soccer": null,
+                                                        "hockey": null,
+                                                        "baseball": null
+                                                            },
+                                                      "funFact": "blahhhhhhhhhh"
+                                                        },
+                                                        {
+                                                          "name": "Alaska",
+                                                          "shortName": "AZ",
+                                                          "nickName": "Grand Canyon State",
+                                                          "statePopulation": null , 
+                                                          "capitalCity": {
+                                                            "name": "Phoenix",
+                                                            "population": 1513367
+                                                            },  
+                                                          "secretaryOfState": "Michele Reagan",
+                                                          "population": 6828065,
+                                                          "stateBird": {
+                                                            "name": "Sourdough Sam",
+                                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                            },
+                                                          "stateFlower": {
+                                                          "name": "saguaro cactus",
+                                                          "image": null      
+                                                              },
+                                                          "sportsTeams": {
+                                                            "basketball": "Scarlet",
+                                                            "football": "Gold",
+                                                            "soccer": null,
+                                                            "hockey": null,
+                                                            "baseball": null
+                                                                },
+                                                          "funFact": "blahhhhhhhhhh"
+                                                              },
+                                                    
+                                                              {
+                                                                "name": "Georgia",
+                                                          "shortName": "AZ",
+                                                          "nickName": "Grand Canyon State",
+                                                          "statePopulation": null , 
+                                                          "capitalCity": {
+                                                            "name": "Phoenix",
+                                                            "population": 1513367
+                                                            },  
+                                                          "secretaryOfState": "Michele Reagan",
+                                                          "population": 6828065,
+                                                          "stateBird": {
+                                                            "name": "Sourdough Sam",
+                                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                            },
+                                                          "stateFlower": {
+                                                          "name": "saguaro cactus",
+                                                          "image": null      
+                                                              },
+                                                          "sportsTeams": {
+                                                            "basketball": "Scarlet",
+                                                            "football": "Gold",
+                                                            "soccer": null,
+                                                            "hockey": null,
+                                                            "baseball": null
+                                                                },
+                                                          "funFact": "blahhhhhhhhhh"
+                                                            },
+                                                            {
+                                                              "name": "Hawaii",
+                                                          "shortName": "AZ",
+                                                          "nickName": "Grand Canyon State",
+                                                          "statePopulation": null , 
+                                                          "capitalCity": {
+                                                            "name": "Phoenix",
+                                                            "population": 1513367
+                                                            },  
+                                                          "secretaryOfState": "Michele Reagan",
+                                                          "population": 6828065,
+                                                          "stateBird": {
+                                                            "name": "Sourdough Sam",
+                                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                            },
+                                                          "stateFlower": {
+                                                          "name": "saguaro cactus",
+                                                          "image": null      
+                                                              },
+                                                          "sportsTeams": {
+                                                            "basketball": "Scarlet",
+                                                            "football": "Gold",
+                                                            "soccer": null,
+                                                            "hockey": null,
+                                                            "baseball": null
+                                                                },
+                                                          "funFact": "blahhhhhhhhhh"
+                                                            },
+                                                            {
+                                                              "name": "Mississippi",
+                                                          "shortName": "AZ",
+                                                          "nickName": "Grand Canyon State",
+                                                          "statePopulation": null , 
+                                                          "capitalCity": {
+                                                            "name": "Phoenix",
+                                                            "population": 1513367
+                                                            },  
+                                                          "secretaryOfState": "Michele Reagan",
+                                                          "population": 6828065,
+                                                          "stateBird": {
+                                                            "name": "Sourdough Sam",
+                                                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                            },
+                                                          "stateFlower": {
+                                                          "name": "saguaro cactus",
+                                                          "image": null      
+                                                              },
+                                                          "sportsTeams": {
+                                                            "basketball": "Scarlet",
+                                                            "football": "Gold",
+                                                            "soccer": null,
+                                                            "hockey": null,
+                                                            "baseball": null
+                                                                },
+                                                          "funFact": "blahhhhhhhhhh"
+                                                            },
+                                                            {
+                                                              "name": "Alaska",
+                                                              "shortName": "AZ",
+                                                              "nickName": "Grand Canyon State",
+                                                              "statePopulation": null , 
+                                                              "capitalCity": {
+                                                                "name": "Phoenix",
+                                                                "population": 1513367
+                                                                },  
+                                                              "secretaryOfState": "Michele Reagan",
+                                                              "population": 6828065,
+                                                              "stateBird": {
+                                                                "name": "Sourdough Sam",
+                                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                                },
+                                                              "stateFlower": {
+                                                              "name": "saguaro cactus",
+                                                              "image": null      
+                                                                  },
+                                                              "sportsTeams": {
+                                                                "basketball": "Scarlet",
+                                                                "football": "Gold",
+                                                                "soccer": null,
+                                                                "hockey": null,
+                                                                "baseball": null
+                                                                    },
+                                                              "funFact": "blahhhhhhhhhh"
+                                                                  },
+                                                        
+                                                                  {
+                                                                    "name": "Georgia",
+                                                              "shortName": "AZ",
+                                                              "nickName": "Grand Canyon State",
+                                                              "statePopulation": null , 
+                                                              "capitalCity": {
+                                                                "name": "Phoenix",
+                                                                "population": 1513367
+                                                                },  
+                                                              "secretaryOfState": "Michele Reagan",
+                                                              "population": 6828065,
+                                                              "stateBird": {
+                                                                "name": "Sourdough Sam",
+                                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                                },
+                                                              "stateFlower": {
+                                                              "name": "saguaro cactus",
+                                                              "image": null      
+                                                                  },
+                                                              "sportsTeams": {
+                                                                "basketball": "Scarlet",
+                                                                "football": "Gold",
+                                                                "soccer": null,
+                                                                "hockey": null,
+                                                                "baseball": null
+                                                                    },
+                                                              "funFact": "blahhhhhhhhhh"
+                                                                },
+                                                                {
+                                                                  "name": "Hawaii",
+                                                              "shortName": "AZ",
+                                                              "nickName": "Grand Canyon State",
+                                                              "statePopulation": null , 
+                                                              "capitalCity": {
+                                                                "name": "Phoenix",
+                                                                "population": 1513367
+                                                                },  
+                                                              "secretaryOfState": "Michele Reagan",
+                                                              "population": 6828065,
+                                                              "stateBird": {
+                                                                "name": "Sourdough Sam",
+                                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                                },
+                                                              "stateFlower": {
+                                                              "name": "saguaro cactus",
+                                                              "image": null      
+                                                                  },
+                                                              "sportsTeams": {
+                                                                "basketball": "Scarlet",
+                                                                "football": "Gold",
+                                                                "soccer": null,
+                                                                "hockey": null,
+                                                                "baseball": null
+                                                                    },
+                                                              "funFact": "blahhhhhhhhhh"
+                                                                },
+                                                                {
+                                                                  "name": "Mississippi",
+                                                              "shortName": "AZ",
+                                                              "nickName": "Grand Canyon State",
+                                                              "statePopulation": null , 
+                                                              "capitalCity": {
+                                                                "name": "Phoenix",
+                                                                "population": 1513367
+                                                                },  
+                                                              "secretaryOfState": "Michele Reagan",
+                                                              "population": 6828065,
+                                                              "stateBird": {
+                                                                "name": "Sourdough Sam",
+                                                                "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sourdough_Sam_%286883624%29_%28cropped%29.jpg"
+                                                                },
+                                                              "stateFlower": {
+                                                              "name": "saguaro cactus",
+                                                              "image": null      
+                                                                  },
+                                                              "sportsTeams": {
+                                                                "basketball": "Scarlet",
+                                                                "football": "Gold",
+                                                                "soccer": null,
+                                                                "hockey": null,
+                                                                "baseball": null
+                                                                    },
+                                                              "funFact": "blahhhhhhhhhh"
+                                                                }
+                                                        
+                                                    
       ]
       }
     

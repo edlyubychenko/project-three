@@ -4,10 +4,10 @@
       "name": "Arizona",
       "shortName": "AZ",
       "nickName": "Grand Canyon State", 
+      "population": 682806,
       "capitalCity": {
         "name": "Phoenix"
         },  
-      "population": 6828065,
       "stateFlower": {
         "name": "saguaro cactus",
         "image": "null"      
@@ -280,58 +280,58 @@
       "shortName": "UT",
       "nickName": "Grand Canyon State", 
       "capitalCity": {
-        "name": "Phoenix"
+        "name": "Salt Lake City"
         },  
-      "population": 6828065,
+      "population": 3051217,
       "stateFlower": {
-        "name": "saguaro cactus",
+        "name": "Sego Lily",
         "image": "null"      
           },
       "sportsTeams": {
-        "basketball": "Scarlet",
+        "basketball": "Utah Jazz",
         "football": "Gold",
-        "soccer": null,
-        "hockey": null,
+        "soccer": "Real Salt Lake",
+        "hockey": "The Utah Hocket Club",
         "baseball": null
             },
       "funFact": "blahhhhhhhhhh"
         },
               {
       "name": "Wisconsin",
-      "shortName": "AZ",
-      "nickName": "Grand Canyon State", 
+      "shortName": "WI",
+      "nickName": "Badger State", 
       "capitalCity": {
-        "name": "Phoenix"
+        "name": "Madison"
         },  
-      "population": 6828065,
+      "population": 5778708,
       "stateFlower": {
-        "name": "saguaro cactus",
+        "name": "Wood Violet",
         "image": "null"      
           },
       "sportsTeams": {
-        "basketball": "Scarlet",
-        "football": "Gold",
+        "basketball": "Milwaukee Bucks",
+        "football": "Green Bay Packers",
         "soccer": null,
-        "hockey": null,
-        "baseball": null
+        "hockey": "Milwaukee Admirals",
+        "baseball": "Milwaukee Brewers"
             },
       "funFact": "blahhhhhhhhhh"
         },
               {
       "name": "Indiana",
-      "shortName": "AZ",
-      "nickName": "Grand Canyon State", 
+      "shortName": "IN",
+      "nickName": "Hoosier State", 
       "capitalCity": {
         "name": "Phoenix"
         },  
-      "population": 6828065,
+      "population": 666681865,
       "stateFlower": {
-        "name": "saguaro cactus",
+        "name": "Peony",
         "image": "null"      
           },
       "sportsTeams": {
-        "basketball": "Scarlet",
-        "football": "Gold",
+        "basketball": "Indiana Pacers",
+        "football": "Indianapolis Colts",
         "soccer": null,
         "hockey": null,
         "baseball": null
@@ -340,14 +340,14 @@
         },
               {
       "name": "Minnesota",
-      "shortName": "AZ",
+      "shortName": "MN",
       "nickName": "Grand Canyon State", 
       "capitalCity": {
-        "name": "Phoenix"
+        "name": "St. Paul"
         },  
-      "population": 6828065,
+      "population": 5489594,
       "stateFlower": {
-        "name": "saguaro cactus",
+        "name": "Lady Slipper",
         "image": "null"      
           },
       "sportsTeams": {

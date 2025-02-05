@@ -14,10 +14,7 @@ const HeroSection = (props) => {
 
 <img src="public/Img/down arrow.png" class="scroll-down-icon" alt="scroll down indicator"/>
 </main>
-
-          
-  
-          </div>
+   </div>
         )
       }
     

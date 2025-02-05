@@ -7,7 +7,6 @@ const Card = (props) => {
     {props.stateFlower.name}
     {props.population}
 
-
         </div>
       )
     }

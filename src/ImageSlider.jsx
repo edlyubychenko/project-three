@@ -1,5 +1,4 @@
-import 'index.html'
-import App from App.jsx
+
 const ImageSlider = (props) => {
         return   (
 

@@ -11,8 +11,6 @@ const Header = (props) => {
             <li class="link-item"><a href="#booknow">Book Now</a></li>
         </ul>
     </nav>
-
-
        </div>
     )
   }
